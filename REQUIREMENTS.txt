@@ -1,0 +1,12 @@
+# Audio handling and transcription
+yt-dlp
+pydub
+openai-whisper
+
+# AI, embeddings, and vector search
+faiss-cpu
+openai
+langchain
+langchain-classic
+langchain-community
+langchain-openai
