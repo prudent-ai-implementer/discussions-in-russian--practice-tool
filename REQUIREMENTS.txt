@@ -1,4 +1,5 @@
 # Audio handling and transcription
+# FFmpeg must be installed separately (usually pre-installed in Google Colab).
 yt-dlp
 pydub
 openai-whisper
